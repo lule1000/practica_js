@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Shirt Adidas Manchester United 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/manUnited (1).jpg",
+        "id" : 5
+    },
+    {
+        "nombre" : "Shirt Adidas Leicester City 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/leicester (1).jpg",
+        "id" : 6
+    },
+    {
+        "nombre" : "Shirt Adidas Arsenal 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/arsenal (1).jpg",
+        "id" : 7
+    },
+    {
+        "nombre" : "Shirt Kappa Aston Villa 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/astonVilla (1).jpg",
+        "id" : 8
+    }
+]

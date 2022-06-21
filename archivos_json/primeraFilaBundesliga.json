@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Shirt Adidas Bayern Munich 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraBayernMunich (1).webp",
+        "id" : 33
+    },
+    {
+        "nombre" : "Shirt Puma Borussia Dortmund 22/23 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraBorussiaDortmund (1).jpg",
+        "id" : 34
+    },
+    {
+        "nombre" : "Shirt Nike Leipzig 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraLeipzig (1).jpg",
+        "id" : 35
+    },
+    {
+        "nombre" : "Shirt Jako Bayern Leverkusen 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraBayernLeverkusen (1).webp",
+        "id" : 36
+    }
+]

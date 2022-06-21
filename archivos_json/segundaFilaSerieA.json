@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Shirt EA7 Napoli 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraNapoli (1).jpg",
+        "id" : 29
+    },
+    {
+        "nombre" : "Shirt Macron Lazio 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraLazio (1).jpg",
+        "id" : 30
+    },
+    {
+        "nombre" : "Shirt Joma Atalanta 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraAtalanta (1).jpg",
+        "id" : 31
+    },
+    {
+        "nombre" : "Shirt Kappa Fiorentina 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraFiorentina (1).jpg",
+        "id" : 32
+    }
+]

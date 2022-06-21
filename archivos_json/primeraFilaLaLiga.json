@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Shirt Adidas Real Madrid 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/realMadrid (1).jpg",
+        "id" : 9
+    },
+    {
+        "nombre" : "Shirt Nike Barcelona 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/barcelona (1).jpg",
+        "id" : 10
+    },
+    {
+        "nombre" : "Shirt Nike Atletico Madrid 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/atleticoMadrid (1).jpg",
+        "id" : 11
+    },
+    {
+        "nombre" : "Shirt Nike Sevilla 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/sevilla (1).jpg",
+        "id" : 12
+    }
+]

@@ -1,0 +1,179 @@
+@charset "UTF-8";
+* {
+  margin: 0%;
+  padding: 0%;
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+body {
+  background-color: #161616;
+}
+
+@media only screen and (min-width: 280px) {
+  header {
+    background-color: #161616;
+    -webkit-box-shadow: 2px 2px 2px black;
+            box-shadow: 2px 2px 2px black;
+  }
+  header .titulo {
+    font-family: 'Merriweather', serif;
+    font-size: 1.1rem;
+    color: #46e549;
+    text-decoration: none;
+  }
+  header .linkGreen:hover {
+    background-color: #46e549;
+  }
+  .bgVerde {
+    background-color: #46e549;
+  }
+  .h2Font {
+    font-family: 'Merriweather', serif;
+    color: #46e549;
+  }
+  .notificacion {
+    font-size: 0.7rem;
+  }
+  .cart-badge {
+    display: block;
+    width: 27px;
+    height: 27px;
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+    background: #46e549;
+  }
+  #tamañoSvg {
+    width: 40px;
+  }
+  #cantidadProductos {
+    margin-left: 9px;
+  }
+  main #premierIcon {
+    width: 12%;
+  }
+  main #laLigaIcon {
+    width: 20%;
+  }
+  main #ligue1Icon {
+    width: 10%;
+  }
+  main #serieAIcon {
+    width: 10%;
+  }
+  main #bundesligaIcon {
+    width: 14%;
+  }
+  main .fontCardsText {
+    font-size: 0.7rem;
+  }
+  main .fontCardsTitle {
+    font-size: 0.7rem;
+  }
+  main .premierLeague {
+    background-color: #6AF3FA;
+  }
+  main .laLiga {
+    background-color: #FB4B4B;
+  }
+  main .ligaUberEats {
+    background-color: #96E546;
+  }
+  main .bundesliga {
+    background-color: red;
+  }
+  footer div {
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+  }
+  footer div h6 {
+    font-family: 'Merriweather', serif;
+    font-size: 0.7rem;
+  }
+  footer div button {
+    font-family: 'Merriweather', serif;
+    font-size: 0.5rem;
+  }
+}
+
+@media only screen and (min-width: 400px) {
+  header .titulo {
+    font-size: 1.5rem;
+  }
+  main .h1Text {
+    font-size: 1.7rem;
+  }
+  main .fontCardsText {
+    font-size: 1rem;
+  }
+  main .fontCardsTitle {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  header .titulo {
+    font-size: 2rem;
+  }
+  #tamañoSvg {
+    width: 50px;
+  }
+  #cantidadProductos {
+    margin-left: 13px;
+  }
+  .notificacion {
+    font-size: 1rem;
+  }
+  main .h1Text {
+    font-size: 2.5rem;
+  }
+  main #premierIcon {
+    width: 7%;
+  }
+  main #laLigaIcon {
+    width: 15%;
+  }
+  main #ligue1Icon {
+    width: 7%;
+  }
+  main #serieAIcon {
+    width: 7%;
+  }
+  main #bundesligaIcon {
+    width: 10%;
+  }
+  footer div h6 {
+    font-size: 1.2rem;
+  }
+  footer div input {
+    height: 30px;
+  }
+  footer div button {
+    font-size: 1.1rem;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  main .h1Text {
+    font-size: 3.5rem;
+  }
+  main #premierIcon {
+    width: 5%;
+  }
+  main #laLigaIcon {
+    width: 10%;
+  }
+  main #ligue1Icon {
+    width: 6%;
+  }
+  main #serieAIcon {
+    width: 6%;
+  }
+  main #bundesligaIcon {
+    width: 7%;
+  }
+}
+/*# sourceMappingURL=styles.css.map */

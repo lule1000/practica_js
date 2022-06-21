@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Shirt Puma Valencia 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/valencia (1).jpg",
+        "id" : 13
+    },
+    {
+        "nombre" : "Shirt Joma Villarreal 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/villareal (1).jpg",
+        "id" : 14
+    },
+    {
+        "nombre" : "Shirt Kappa Real Betis 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/realBetis (1).jpg",
+        "id" : 15
+    },
+    {
+        "nombre" : "Shirt Macron Real Sociedad 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/realSociedad (1).png",
+        "id" : 16
+    }
+]

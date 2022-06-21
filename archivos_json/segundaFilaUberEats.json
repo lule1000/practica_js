@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Shirt New Balance Lille 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/lille (1).jpg",
+        "id" : 21
+    },
+    {
+        "nombre" : "Shirt Puma Rennais 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/rennais (1).jpg",
+        "id" : 22
+    },
+    {
+        "nombre" : "Shirt Puma Lens 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/lens (1).webp",
+        "id" : 23
+    },
+    {
+        "nombre" : "Shirt Adidas Strasbourg 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/strasbourg (1).webp",
+        "id" : 24
+    }
+]

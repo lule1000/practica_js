@@ -1,0 +1,214 @@
+@media only screen and (min-width: 280px) {
+    header {
+        background-color: #161616;
+        box-shadow: 2px 2px 2px black;
+        .titulo {
+            font-family: 'Merriweather', serif;
+            font-size: 1.1rem;
+            color: #46e549;
+            text-decoration: none;
+        }
+        .linkGreen:hover {
+            background-color: #46e549;
+        }
+    }
+
+    .bgVerde {
+        background-color: #46e549;
+    }
+
+    .h2Font {
+        font-family: 'Merriweather', serif;
+        color: #46e549;
+    }
+
+    .notificacion {
+        font-size: 0.7rem;
+    }
+
+    //SVG CARRITO
+    .cart-badge {
+        display: block;
+        width: 27px;
+        height: 27px;
+        font-size: 1rem;
+        text-align: center;
+        color: white;
+        border-radius: 50%;
+        background: #46e549;
+    }
+
+    #tamañoSvg {
+        width: 40px;
+    }
+
+    #cantidadProductos {
+        margin-left: 9px;
+    }
+
+    main {
+        #premierIcon {
+            width: 12%;
+        }
+
+        #laLigaIcon {
+            width: 20%;
+        }
+
+        #ligue1Icon {
+            width: 10%;
+        }
+
+        #serieAIcon {
+            width: 10%;
+        }
+
+        #bundesligaIcon {
+            width: 14%;
+        }
+
+        .fontCardsText {
+            font-size: 0.7rem;
+        }
+
+        .fontCardsTitle {
+            font-size: 0.7rem;
+        }
+
+        .premierLeague {
+            background-color: #6AF3FA;
+        }
+
+        .laLiga {
+            background-color: #FB4B4B;
+        }
+
+        .ligaUberEats {
+            background-color: #96E546;
+        }
+        .bundesliga {
+            background-color: red;
+        }
+    }
+
+    footer {
+        div {
+            align-items: flex-end;
+        }
+        div h6 {
+            font-family: 'Merriweather', serif;
+            font-size: 0.7rem;
+        }
+        div button {
+            font-family: 'Merriweather', serif;
+            font-size: 0.5rem;
+        }
+    }
+}
+
+@media only screen and (min-width: 400px) {
+    header {
+        .titulo {
+            font-size: 1.5rem;
+        }
+    }
+
+    main {
+        .h1Text {
+            font-size: 1.7rem;
+        }
+
+        .fontCardsText {
+            font-size: 1rem;
+        }
+
+        .fontCardsTitle {
+            font-size: 1rem;
+        }
+    }
+}
+
+@media only screen and (min-width: 700px) {
+    header {
+        .titulo {
+            font-size: 2rem;
+        }
+    }
+
+    #tamañoSvg {
+        width: 50px;
+    }
+
+    #cantidadProductos {
+        margin-left: 13px;
+    }
+
+    .notificacion {
+        font-size: 1rem;
+    }
+
+    main {
+        .h1Text {
+            font-size: 2.5rem;
+        }
+
+        #premierIcon {
+            width: 7%;
+        }
+
+        #laLigaIcon {
+            width: 15%;
+        }
+
+        #ligue1Icon {
+            width: 7%;
+        }
+
+        #serieAIcon {
+            width: 7%;
+        }
+
+        #bundesligaIcon {
+            width: 10%;
+        }
+    }
+    footer {
+        div h6 {
+            font-size: 1.2rem;
+        }
+        div input {
+            height: 30px;
+        }
+        div button {
+            font-size: 1.1rem;
+        }
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    main {
+        .h1Text {
+            font-size: 3.5rem;
+        }
+
+        #premierIcon {
+            width: 5%;
+        }
+
+        #laLigaIcon {
+            width: 10%;
+        }
+
+        #ligue1Icon {
+            width: 6%;
+        }
+
+        #serieAIcon {
+            width: 6%;
+        }
+
+        #bundesligaIcon {
+            width: 7%;
+        }
+    }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Shirt Puma AC Milan 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraMilan (1).jpg",
+        "id" : 25
+    },
+    {
+        "nombre" : "Shirt Nike Inter 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraInter (1).webp",
+        "id" : 26
+    },
+    {
+        "nombre" : "Shirt Adidas Juventus 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraJuventus (1).jpg",
+        "id" : 27
+    },
+    {
+        "nombre" : "Shirt New Balance Roma 22/23 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraRoma (1).jpg",
+        "id" : 28
+    }
+]

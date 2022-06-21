@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Shirt Nike Wolfsburgo 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraWolfsburgo (1).jpg",
+        "id" : 37
+    },
+    {
+        "nombre" : "Shirt Nike Frankfurt 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraFrankfurt (1).jpg",
+        "id" : 38
+    },
+    {
+        "nombre" : "Shirt Jako Stuttgart 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraStuttgart (1).jpg",
+        "id" : 39
+    },
+    {
+        "nombre" : "Shirt Puma Borussia Monchengladbach 22/23 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraBorussiaM (1).jpg",
+        "id" : 40
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Shirt Nike Liverpool 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/remeraLiverpol (1).jpg",
+        "id" : 1
+    },
+    {
+        "nombre" : "Shirt Puma Manchester City 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/manCity (1).jpg",
+        "id" : 2
+    },
+    {
+        "nombre" : "Shirt Nike Chelsea 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/chelsea (1).jpg",
+        "id" : 3
+    },
+    {
+        "nombre" : "Shirt Nike Tottenham 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/tottenham (1).jpg",
+        "id" : 4
+    }
+]    

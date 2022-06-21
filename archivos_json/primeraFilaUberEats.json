@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Shirt Nike PSG 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/psg (1).jpg",
+        "id" : 17
+    },
+    {
+        "nombre" : "Shirt Kappa Monaco 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/monaco (1).jpg",
+        "id" : 18
+    },
+    {
+        "nombre" : "Shirt Puma Olympique Marseille 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/olympiqueMarseille (1).jpg",
+        "id" : 19
+    },
+    {
+        "nombre" : "Shirt Adidas Olympique Lyon 21/22 Home",
+        "precio" : 11900,
+        "imagen" : "./images/olympiqueLyon (1).jpg",
+        "id" : 20
+    }
+]
